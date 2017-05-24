@@ -1,0 +1,3 @@
+services:
+    akuma.import_export.registry:
+        class: 'Akuma\Bundle\ImportExportBundle\Registry\ImportExportRegistry'
